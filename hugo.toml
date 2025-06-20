@@ -1,16 +1,20 @@
-baseURL      = "baseURL = "https://dustinkeys.github.io/nathanielkeys.github.io/"
+baseURL      = "https://dustinkeys.github.io/nathanielkeys.github.io/"
 title        = "Nathaniel Keys"
 languageCode = "en-us"
 theme        = "hugo-ink"
-pagerSize = 10
 canonifyURLs = true
 
+[pagination]
+  pagerSize = 10
+
+relativeURLs = true
+
 [[menu.main]]
-  name = "About"
-  url  = "/about/"
+  name   = "About"
+  url    = "/about/"
   weight = 1
 
-  [[menu.main]]
-  name = "Books"
-  url  = "/books/"
+[[menu.main]]
+  name   = "Books"
+  url    = "/books/"
   weight = 2
