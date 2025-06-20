@@ -3,4 +3,6 @@ title: "Home"
 draft: false
 layout: home
 ---
-Your real homepage copy goes here.
+
+Welcome to my site!  
+Here’s where your real homepage copy goes.
