@@ -3,21 +3,4 @@ title: "Home"
 draft: false
 layout: home
 ---
-
-
-
-
-
-<p>Nathaniel Keys
-About
-Books
-Nathaniel Keys
- 
-
-New novel  |  Coming soon
-“
-The woods were still and golden. Nothing out of place. But some things, she knew, were always trying to surface.
-
-  ”
-  Sign up as a beta reader.
-Join</p>
+Your real homepage copy goes here.
