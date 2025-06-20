@@ -1,6 +1,5 @@
 ---
 title: "Home"
-layout: splash
 draft: false
 ---
 
