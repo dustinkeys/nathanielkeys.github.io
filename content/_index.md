@@ -1,6 +1,7 @@
 ---
 title: "Home"
 draft: false
+layout: home
 ---
 
 
