@@ -1,8 +1,8 @@
-+++
-date = '2025-06-19T19:30:45-07:00'
-draft = false
-title = 'Home'
-+++
+---
+title: "Home"
+layout: splash
+draft: false
+---
 
 
 

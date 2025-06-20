@@ -5,11 +5,11 @@
     <loc>http://localhost:1313/beta/</loc>
     <lastmod>2025-06-19T19:32:47-07:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-06-19T19:32:47-07:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/books/</loc>
     <lastmod>2025-06-19T19:32:10-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2025-06-19T19:30:45-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/about/</loc>
     <lastmod>2025-06-19T19:30:26-07:00</lastmod>
